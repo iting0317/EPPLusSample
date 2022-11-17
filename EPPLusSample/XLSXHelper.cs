@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace EPPLusSample
 {
-    internal class XLSHelper
+    internal class XLSXHelper
     {
         /// <summary>
         /// 檢查格式

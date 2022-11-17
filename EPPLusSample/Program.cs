@@ -1,6 +1,6 @@
 ﻿using EPPLusSample;
 
-XLSHelper xlsHeler = new XLSHelper();
+XLSXHelper xlsHeler = new XLSXHelper();
 
 string path = @"..\..\..\測試匯入資料.xlsx";
 string fullPath = Path.Combine(Directory.GetCurrentDirectory(), path);
